@@ -1,4 +1,7 @@
 
+[![Build Status](https://dev.azure.com/morganbp55/SpaceGame-Web/_apis/build/status/bpm1055.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/morganbp55/SpaceGame-Web/_build/latest?definitionId=1&branchName=master)
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
